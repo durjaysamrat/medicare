@@ -2,7 +2,7 @@
 ![Whatsapp UI](https://github.com/user-attachments/assets/ed240c9d-99a9-48c3-859c-3e7bac3ddf4b)
 
 ## Overview
-Welcome to the Medicare-ChatBot repository! This project aims to provide a comprehensive chatbot solution for healthcare services. The chatbot is designed to assist users with medical inquiries, appointment scheduling, and general health information.
+Welcome to the Medicare-ChatBot repository! This project aims to provide a comprehensive chatbot solution for healthcare services using IBM-Watson. The chatbot is designed to assist users with medical inquiries, appointment scheduling, and general health information.
 
 ![image](https://github.com/user-attachments/assets/f278313d-c387-44d8-b0ad-9aff5f2a1f7f)
 
